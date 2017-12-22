@@ -69,15 +69,25 @@ a {
 }
 
 #store {
+  height: 700px;
   width: 1000px;
+  margin: auto;
+  padding-top: 70px;
 }
 
-#store .content {
-  margin: auto
+.item {
+  margin-bottom: 5px;
 }
 
-.image-content {
-  width: 300px;
+.item img{
   height: 200px;
-  align-content: space-around;
+  display: block;
+  padding: 10px;
+}
+
+.item span {
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
 }
