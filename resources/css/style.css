@@ -128,3 +128,14 @@ a {
 #location h3{
   margin-bottom: 15px;
 }
+
+.contact {
+  height: 200px;
+  margin: auto;
+  text-align: center;
+}
+
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
